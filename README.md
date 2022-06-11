@@ -2,6 +2,9 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&multiline=true&width=448&lines=Hi+%F0%9F%91%8B%2C+I'm+Sergey.+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&vCenter=true&multiline=true&width=1000&height=78&lines=I'm+not+a+real+web+developer%2C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&vCenter=true&multiline=true&width=1000&height=78&lines=I'm+just+learning)](https://git.io/typing-svg)
+
 <h3 align="center">I'm not a real web developer, I'm just learning</h3>
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
