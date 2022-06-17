@@ -11,10 +11,12 @@
   <a href="your-hh-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://t.me/ZhikhSerg">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  
+    
   </a>
-  <a href="your-twitter-URL">
+  <a href="[your-twitter-UR](https://t.me/ZhikhSerg)L">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -38,5 +40,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sergzhikhdev&show_icons=true&locale=en" alt="sergzhikhdev" /></p>
 
+## 🔥 Codewars
 
-
+[![codewars](https://www.codewars.com/users/SergZhikh/badges/large)](https://www.codewars.com/users/SergZhikh)
