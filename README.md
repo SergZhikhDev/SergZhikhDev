@@ -8,7 +8,7 @@
 
 <h3 align="center">I'm not a real web developer, I'm just learning</h3>
 <div id="badges" align="center">
-  <a href="your-hh-URL">
+  <a href="https://www.linkedin.com/in/sergey-zhikharev">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/ZhikhSerg">
