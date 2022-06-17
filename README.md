@@ -24,7 +24,7 @@
 
 - 🌱 I’m currently learning / Сейчас я учусь создавать сайты с помощью **React.js ,Vue.js**
 
-- 📄 Know about my experiences / Здесь моё резюме:  [hh-resume](https://togliatti.hh.ru/resume/05425cffff0aede3600039ed1f664e4e703042)
+- 📄 Know about my experiences / Здесь моё резюме:  [hh-resume / Резюме на hh.ru](https://togliatti.hh.ru/resume/05425cffff0aede3600039ed1f664e4e703042)
 
 
 <p align="left">
