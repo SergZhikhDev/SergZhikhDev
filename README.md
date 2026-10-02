@@ -25,7 +25,7 @@ Causa помогает не утонуть в бюрократии: следит
 
 - **Telegram:** [@ZhikhSerg](https://t.me/ZhikhSerg)
 - **Email:** sergeyzhikharev@yandex.ru
-- **Резюме:** [hh.ru](https://togliatti.hh.ru/resume/05425cffff0aede3600039ed1f664e4e703042)
+
 
 ## Текущие проекты
 
